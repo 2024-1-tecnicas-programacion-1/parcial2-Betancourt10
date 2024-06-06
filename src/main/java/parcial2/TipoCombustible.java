@@ -1,5 +1,7 @@
 package parcial2;
 
-public enum TipoCombustible {
-    // TODO: Tu código va aquí
+public enum TipoCombustible { 
+    
+    GASOLINA, ELECTRICO, HIBRIDO; 
+    
 }
